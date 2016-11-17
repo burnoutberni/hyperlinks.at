@@ -1,56 +1,67 @@
 <!DOCTYPE html>
 <html lang="de">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
-<title>#hyperlinks</title>
+		<title>#hyperlinks</title>
 
-<style>
-html, body {
-	width: 100%;
-	height: 100%;
-	margin: 0;
-}
+		<style>
+		html, body {
+			width: 100%;
+			height: 100%;
+			margin: 0;
+		}
 
-body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
+		body {
+			font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif;
 
-	background: linear-gradient(270deg, #f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00);
-	background-size: 1400% 1400%;
-	-webkit-animation: Rainbow 30s ease infinite;
-	-moz-animation: Rainbow 30s ease infinite;
-	animation: Rainbow 30s ease infinite;
-}
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
 
-h1 {
-	margin: 0;
-	font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif;
-	color: #fff;
-	text-shadow: 2px 2px #000;
-}
+			background: linear-gradient(270deg, #f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00);
+			background-size: 1400% 1400%;
+			-webkit-animation: Rainbow 30s ease infinite;
+			-moz-animation: Rainbow 30s ease infinite;
+			animation: Rainbow 30s ease infinite;
+		}
 
-@-webkit-keyframes Rainbow {
-	0%{background-position:0% 50%}
-	50%{background-position:100% 50%}
-	100%{background-position:0% 50%}
-}
-@-moz-keyframes Rainbow {
-	0%{background-position:0% 50%}
-	50%{background-position:100% 50%}
-	100%{background-position:0% 50%}
-}
-@keyframes Rainbow {
-	0%{background-position:0% 50%}
-	50%{background-position:100% 50%}
-	100%{background-position:0% 50%}
-}
-</style>
-</head>
-<body>
-<h1>#hyperlinks</h1>
-</body>
+		h1 {
+			margin: 0;
+			color: #fff;
+			text-shadow: 0.1em 0.1em #000;
+		}
+
+		p {
+			background-color: white;
+			padding: 1em;
+			box-shadow: 0.1em 0.1em #000;
+			text-align: center;
+		}
+
+		@-webkit-keyframes Rainbow {
+			0%{background-position:0% 50%}
+			50%{background-position:100% 50%}
+			100%{background-position:0% 50%}
+		}
+		@-moz-keyframes Rainbow {
+			0%{background-position:0% 50%}
+			50%{background-position:100% 50%}
+			100%{background-position:0% 50%}
+		}
+		@keyframes Rainbow {
+			0%{background-position:0% 50%}
+			50%{background-position:100% 50%}
+			100%{background-position:0% 50%}
+		}
+		</style>
+	</head>
+	<body>
+		<h1>#hyperlinks</h1>
+		<p>Sonntag, 20. November 2016 @ <a href="https://metalab.at">Metalab</a></p>
+	</body>
 </html>
