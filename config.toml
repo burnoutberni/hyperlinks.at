@@ -1,3 +1,3 @@
 baseurl = "https://hyperlinks.at/"
-languageCode = "de-at"
-title = "#hyperlinks"
+DefaultContentLanguage = "de"
+DefaultContentLanguageInSubdir = true

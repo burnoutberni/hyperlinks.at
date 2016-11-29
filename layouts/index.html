@@ -1,0 +1,3 @@
+{{ range where .Data.Pages "Title" "Willkommen" }}
+  {{ template "_default/single.html" . }}
+{{ end }}

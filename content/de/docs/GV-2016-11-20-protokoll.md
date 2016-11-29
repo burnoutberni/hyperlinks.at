@@ -5,6 +5,8 @@ fadecolors = "#f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00"
 textalign = "left"
 +++
 
+{{% newbox GV2016 %}}
+
 ## Generalversammlung 2016-11-20
 
 ### Teilnehmer_innen
@@ -185,3 +187,5 @@ Phileas:
 Phileas nimmt die Wahl als Rechnungsprüfer an.
 
 Juliana schließt die Versammlung um 19:30 Uhr.
+
+{{% /newbox %}}

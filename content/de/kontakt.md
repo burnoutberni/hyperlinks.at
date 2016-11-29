@@ -4,12 +4,13 @@ title = "Kontakt"
 fadecolors = "#f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00"
 +++
 
+{{% newbox kontakt %}}
 ## Kontakt
 Wenn du regelmäßig von uns mitbekommst, schau am besten [in unseren Gruppenchat](#), wo alle wichtigen und auch weniger wichtige Dinge besprochen werden.
 
 Ansonsten kannst du uns auch gerne [eine E-Mail](mailto:hello@hyperlinks.at) oder einen Brief (siehe unten) schicken.
 
-{{% closebox %}}
+{{% /newbox %}}
 
 {{% newbox impressum %}}
 

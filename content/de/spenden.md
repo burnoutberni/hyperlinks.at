@@ -5,6 +5,8 @@ title = "Spenden"
 
 +++
 
+{{% newbox spenden %}}
+
 ## Jetzt unsere Arbeit unterstützen!
 
 Wir sind für jede Unterstützung dankbar und würden uns sehr über deine Spende freuen.
@@ -14,3 +16,5 @@ Kontoinhaber*in: Junge Pirat*innen Österreichs
 IBAN: DE15 5123 0800 6530 9270 27
 
 BIC: WIREDEMM
+
+{{% /newbox %}}
