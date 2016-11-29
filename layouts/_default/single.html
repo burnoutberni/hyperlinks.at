@@ -9,6 +9,9 @@
 			body {
 				background: linear-gradient(270deg, {{ printf "%s" $.Params.fadecolors }});
 			}
+			.whitebox, .whitebox p {
+				text-align: {{ printf "%s" $.Params.textalign }} !important;
+			}
 		</style>
 		<link href="/style.css" rel="stylesheet">
 
