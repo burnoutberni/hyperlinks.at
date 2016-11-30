@@ -1,3 +1,3 @@
-<div class="whitebox" id="{{ .Get 0 }}">
+<div class="whitebox" {{ if .Get 0 }} id="{{ .Get 0 }}" {{ end }}>
   {{ .Inner }}
 </div>
