@@ -7,10 +7,10 @@
 		<link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
 		<style>
 			body {
-				background: linear-gradient(270deg, {{ printf "%s" $.Params.fadecolors }});
+				background: linear-gradient(270deg, {{ if $.Params.fadecolors }} {{ $.Params.fadecolors }} {{ else }} #f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00 {{ end }});
 			}
 			.whitebox, .whitebox p {
-				text-align: {{ printf "%s" $.Params.textalign }} !important;
+				text-align: {{ if $.Params.textalign }} {{ $.Params.textalign }} {{ else }} center {{ end }} !important;
 			}
 		</style>
 		<link href="/style.css" rel="stylesheet">
