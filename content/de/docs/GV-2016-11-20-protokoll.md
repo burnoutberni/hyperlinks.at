@@ -19,7 +19,7 @@ Anwesende:
   * Leonard Bellersen
   * Moritz Wilhelmy
   * Rutto
-  * Phileas Lebada
+  * Phileas
 
 
 ### Feststellung der Beschlussfähigkeit
