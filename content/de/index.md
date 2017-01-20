@@ -21,7 +21,7 @@ Wir arbeiten von, mit und für Jugendliche(n), bringen unsere Standpunkte im pol
 
 {{% newbox termine %}}
 <h2>Nächster Termin:</h2>
-<p>Donnerstag, 12. Jänner 2017, 19:00h @ TBC</p>
+<p>März 2017, TBA</p>
 {{% /newbox %}}
 
 {{% newbox spenden %}}
