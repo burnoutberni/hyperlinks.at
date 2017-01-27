@@ -7,7 +7,7 @@ fadecolors = "#f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00"
 {{% newbox machen %}}
 ## Was wir machen!
 
-Wir veranstalten [regelmäßige Treffen]({{< relref "de/index.html#termine" >}}) – vorerst nur in Wien, aber bei Interesse helfen wir gerne beim Organisieren von weiteren Treffen – sowie Sommercamps, Diskussionsrunden und politische Aktionen. Wenn du regelmäßig von uns mitbekommen magst, schau am besten [in unseren Gruppenchat](#), wo alle wichtigen und auch weniger wichtige Dinge besprochen werden.
+Wir veranstalten [regelmäßige Treffen]({{< relref "de/index.html#termine" >}}) – vorerst nur in Wien, aber bei Interesse helfen wir gerne beim Organisieren von weiteren Treffen – sowie Sommercamps, Diskussionsrunden und politische Aktionen. Wenn du regelmäßig von uns mitbekommen magst, schau am besten [in unseren Gruppenchat](https://chat.ungpirat.se/channel/hyperlinks), wo alle wichtigen und auch weniger wichtige Dinge besprochen werden.
 
 {{% /newbox %}}
 
