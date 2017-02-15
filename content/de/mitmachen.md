@@ -16,6 +16,8 @@ Wir veranstalten [regelmäßige Treffen]({{< relref "de/index.html#termine" >}})
 ### Weitere Infos
 [Protokoll unserer letzten Generalversammlung]({{< relref "de/docs/GV-2016-11-20-protokoll.md" >}})
 
+[Statuten Stand 20. November 2016](/docs/2016-statuten.pdf)
+
 <video src="/media/hyperlinks.mp4" autoplay="true" loop="true">
 </video>
 <p>(v.l.n.r.) Ente, Juli, Phileas, Leo und Nini</p>
