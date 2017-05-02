@@ -10,7 +10,7 @@ textalign = "left"
 
 
 ### Announcement:
-## Workshop "Copyfighters"
+## Workshop #Copyfighters
 
 Du möchtest gemeinsam an Lösungsanzätzen fürs Urheberrecht arbeiten?
 
@@ -44,7 +44,7 @@ unseres nächsten [Events](https://www.eurodig.org/index.php?id=716) im Juni era
 ## Wer / Was / Wann / Wo?
 
 - Jugendliche Menschen von 14-26
-- Copyfighters Workshop
+- #Copyfighters Workshop
 - Samstag, 6. Mai 2017, 15:00 bis ca. 18:00
 - Bei [epicenter.works](https://epicenter.works/geschichte) im Besprechungszimmer
  - Adresse: Annagasse 8/1/8 1010 Wien - [Karte](https://www.openstreetmap.org/node/478843289#map=19/48.20432/16.37183)
