@@ -12,19 +12,19 @@ textalign = "left"
 ### Announcement:
 ## Workshop #Copyfighters
 
-Du möchtest gemeinsam an Lösungsansätzen fürs Urheberrecht arbeiten?
+Du möchtest gemeinsam an Lösungsansätzen fürs Urheber*innenrecht arbeiten?
 
 Dann komm kommenden Samstag, 6. Mai, zu unserem ersten #hyperlinks-Workshop.
 
 
 ### Worum geht's genau?
 
-Die Auswirkungen von Technologisierung stellt eine Reihe an neuen Aufgaben für die Politik da, zum Beispiel wenn's um neue Nutzungen und Formen von künstlerischen Werken aller Art geht. Aktuell werden diese Dinge zu einem Großteil von jedem EU-Mitgliedsstaat einzeln geregelt, doch im Internet gibt es keine Ländergrenzen – und das führt zu vielen Unklarheiten nicht nur beim vernetzten Austausch von geschützten Werken. Ohne einer einheitlichen Auffassung davon was Urheberrecht überhaupt sein soll, stoßen wir alle tagtäglich an die Grenzen dieser Gesetze.   
-Die EU-Gesetzgebung arbeitet deshalb seit einiger Zeit an einer Angleichung des Urheberrechts zwischen den Mitgliedsstaaten. Nachdem die Europäische Kommission einen Vorschlag geliefert hat, wird dieser derzeit im Europäischen Parlament diskutiert.
+Die Auswirkungen von Technologisierung stellt eine Reihe an neuen Aufgaben für die Politik da, zum Beispiel wenn's um neue Nutzungen und Formen von künstlerischen Werken aller Art geht. Aktuell werden diese Dinge zu einem Großteil von jedem EU-Mitgliedsstaat einzeln geregelt, doch im Internet gibt es keine Ländergrenzen – und das führt zu vielen Unklarheiten nicht nur beim vernetzten Austausch von geschützten Werken. Ohne einer einheitlichen Auffassung davon was Urheber*innenrecht überhaupt sein soll, stoßen wir alle tagtäglich an die Grenzen dieser Gesetze.   
+Die EU-Gesetzgebung arbeitet deshalb seit einiger Zeit an einer Angleichung des Urheber*innenrechts zwischen den Mitgliedsstaaten. Nachdem die Europäische Kommission einen Vorschlag geliefert hat, wird dieser derzeit im Europäischen Parlament diskutiert.
 
 > Wie siehen diese Vorschläge aus?
 > Haben Jugendliche zu diesem Thema was zu sagen?
-> Was sind deine Probleme mit Urheberrecht?
+> Was sind deine Probleme mit Urheber*innenrecht?
 > Wir stellen wir sicher, dass unsere Stimme nicht untergeht?  
 
 Dies und mehr wollen wir gemeinsam mit dir herausfinden.
