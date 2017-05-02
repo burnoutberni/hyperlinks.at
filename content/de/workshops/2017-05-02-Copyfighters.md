@@ -2,7 +2,7 @@
 date = "2017-05-02T20:52:07+02:00"
 draft = false
 title = "6. Mai Copyfighters Workshop für Jugendliche"
-fadecolors = "#cf9479, #d2b17c, #d4cc7f, #c4d682, #aed885"
+fadecolors = "#f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00"
 textalign = "left"
 +++
 
@@ -12,32 +12,24 @@ textalign = "left"
 ### Announcement:
 ## Workshop #Copyfighters
 
-Du möchtest gemeinsam an Lösungsanzätzen fürs Urheberrecht arbeiten?
+Du möchtest gemeinsam an Lösungsansätzen fürs Urheberrecht arbeiten?
 
 Dann komm kommenden Samstag, 6. Mai, zu unserem ersten #hyperlinks-Workshop.
 
-Dort beschäftigen wir uns mit der Frage:
 
+### Worum geht's genau?
+
+Die Auswirkungen von Technologisierung stellt eine Reihe an neuen Aufgaben für die Politik da, zum Beispiel wenn's um neue Nutzungen und Formen von künstlerischen Werken aller Art geht. Aktuell werden diese Dinge zu einem Großteil von jedem EU-Mitgliedsstaat einzeln geregelt, doch im Internet gibt es keine Ländergrenzen – und das führt zu vielen Unklarheiten nicht nur beim vernetzten Austausch von geschützten Werken. Ohne einer einheitlichen Auffassung davon was Urheberrecht überhaupt sein soll, stoßen wir alle tagtäglich an die Grenzen dieser Gesetze.   
+Die EU-Gesetzgebung arbeitet deshalb seit einiger Zeit an einer Angleichung des Urheberrechts zwischen den Mitgliedsstaaten. Nachdem die Europäische Kommission einen Vorschlag geliefert hat, wird dieser derzeit im Europäischen Parlament diskutiert.
+
+> Wie siehen diese Vorschläge aus?
+> Haben Jugendliche zu diesem Thema was zu sagen?
 > Was sind deine Probleme mit Urheberrecht?
+> Wir stellen wir sicher, dass unsere Stimme nicht untergeht?  
 
-### Worum geht es genau? / Meta
+Dies und mehr wollen wir gemeinsam mit dir herausfinden.
 
-Die Auswirkungen von Technologisierung stellt eine Reihe an neuen Aufgaben für die Politik da.
-
-Zum Beispiel das vernetze Austauschen von geschützen Werken.   
-Aktuell wird dieses nämlich von jedem EU-Mitgliedsstaat einzeln geregelt.   
-Dadurch gibt es keine einheitliche Auffassung davon Urheberrecht überhaupt ist.   
-Das bietet viele Unklarheiten für den vernetzten Austausch von geschützten Werken.   
-Deswegen arbeitet die EU Legislative seit einiger Zeit an einer Angleichung des Urheberrechts zwischen den Mitgliedsstaaten.   
-Wie diese Angleichung genau aussehen soll?   
-Das steht zum Glück noch nicht in Stein gemeiselt, darum wollen wir gemeinsam herausfinden, in welchen Fällen Urheberrecht für dich Probleme macht.
-
-Hä?
-
-Häufiges Beispiele sind das Streaming von audiovisuellen Inhalten, das Teilen von Bildern auf sozialen Netzwerken, die eigene Arbeit als Dj*ane, ...   
-All diese Tätigkeiten sind im Moment ein gesetzlicher Graubereich und sollen reguliert werden.
-
-Die Ergebnisse von unserem Workshop davon bilden die Grundlage für ein Copyright-Positionspapier, dass durch die Teilnehmer*innen
+Die Ergebnisse von unserem Workshop bilden dann die Grundlage für ein Copyright-Positionspapier, dass durch die Teilnehmer*innen
 unseres nächsten [Events](https://www.eurodig.org/index.php?id=716) im Juni erarbeitet wird.
 
 
