@@ -87,6 +87,19 @@ button.yellow:hover {
   box-shadow: 0.2em 0.2em #ccc;
 }
 
+div#termine a {
+  color: black;
+  text-decoration: none;
+}
+div#termine a:hover {
+  opacity: 0.8;
+}
+div#termine .date {
+  color: #999 !important;
+  font-size: 0.8rem;
+  margin-left: 0.5rem;
+}
+
 #menu {
   flex: 0.5;
   align-self: flex-end;
